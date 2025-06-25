@@ -10,7 +10,7 @@ This tutorial demonstrates the post configuration setup of the osTicket system.
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Lab 3.2. osTicket Post Configuration Setup | Microsoft Azure | IT Tutorial Speedrun Walkthru](https://youtu.be/t7shFAn6G8Q)
+- ### [YouTube: Lab 3.2. osTicket Post Configuration Setup | Microsoft Azure | IT Tutorial Speedrun Walkthru](https://youtu.be/ihUsLyiBV_A)
 
 <p>
 </p>
