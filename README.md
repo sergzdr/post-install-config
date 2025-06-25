@@ -31,7 +31,7 @@ This tutorial demonstrates the post configuration setup of the osTicket system.
   
   - Here we will be able to create a new department.
   - Each Agent is assigned to a specific department depending on their assigned role within the helpdesk. 
-  - In this case we will be creating the "System Administrators" department, this is where the Supreme Admins will be designated. 
+  - In this case we will be creating the "System Administrators" department, this is where any Supreme Admins will be designated. 
   - Other specific settings such as SLAs, managers and other email settings can be set up in the departments tab.
 
 </p>
@@ -93,7 +93,7 @@ This tutorial demonstrates the post configuration setup of the osTicket system.
 <p>
 7.) SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. 
 
-  - SLA Plans are created by going to Admin Panel->Manage->SLA Plans.
+  - SLA Plans are created by going to Admin Panel -> Manage -> SLA Plans.
   - Each SLA has a schedule and within that schedule there is a grace period.
   - In this example SEV-A has a 24/7 and a one hour grace period. 
 
