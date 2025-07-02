@@ -56,16 +56,18 @@ Now that osTicket is configured, next is system administration and post installa
   - A Level I support team has been created by default, in this example we will create a Level II Support Team.
 
 <p>
-<img src="https://i.imgur.com/cYzWBD2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/ac1466e3-68fd-4fb0-a322-568df5f7d969" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
 </p>
 <p>
-4.) Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.
+4.) Now that we have a new team set up, we can create a setting which will permit the creation of tickets for anyone.
+
+ - Admin Panel -> Settings -> User Settings.
 
 </p>
-<img src="https://i.imgur.com/H1q2Fdh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/e7cb9f23-d2a2-4401-b07e-094a6cf86bf4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
@@ -79,7 +81,7 @@ Now that osTicket is configured, next is system administration and post installa
   - Permissions, Access, & Teams are be assigned in the Agents tab.
     
 </p>
-<img src="https://i.imgur.com/8WTOSre.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/b0c206ee-8d9a-4ae7-ac3d-fcffb8403574" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
@@ -92,7 +94,7 @@ Now that osTicket is configured, next is system administration and post installa
   - To create a user follow this path Agent Panel -> Users -> User Directory -> Add new. 
 
 </p>
-<img src="https://i.imgur.com/xOprA9f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/46f3dfca-1f4a-468e-bcfa-18e7d8f2ecd3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
@@ -105,7 +107,7 @@ Now that osTicket is configured, next is system administration and post installa
   - In this example SEV-A has a 24/7 and a one hour grace period. 
 
 </p>
-<img src="https://i.imgur.com/LpjCaLd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/fe78784e-9fb0-40e0-9b25-da6b910339ad" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
@@ -116,7 +118,7 @@ Now that osTicket is configured, next is system administration and post installa
   - In the example below we have made a help topic for "Business Critical Outage" this can be if customers cannot access mobile banking. 
 
 </p>
-<img src="https://i.imgur.com/kB7rts2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/5d7b424f-4a1a-4148-9306-0cff72ca5c56" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
